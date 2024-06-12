@@ -1,160 +1,27 @@
 Categorie;Gerecht;Beschrijving;Prijs
 pizza;Pizza margherita;Tomatensaus en kaas;€ 10,00
-Pizza cipolla
-Uien.
-€ 11,00
-Pizza peperoni
-Paprika.
-€ 11,00
-Pizza ananas
-Ananas.
-€ 11,00
-Pizza funghi
-Champignons.
-€ 11,00
-Pizza prosciutto
-Hesp.
-€ 11,00
-Pizza sucuklu
-Turkse worst.
-€ 11,00
-Pizza capriciosa
-Champignons, hesp.
-€ 12,00
-Pizza americana
-Pikante salami, paprika.
-€ 12,00
-Pizza vegetariano
-Paprika, champignons, uien, olijven, maïs.
-€ 12,00
-Pizza tonno
-Tonijn, olijven, uien.
-€ 13,00
-Pizza ansjovis
-Ansjovis, olijven, uien.
-€ 13,00
-Pizza tropicale
-Champignons, ananas, ham.
-€ 12,00
-Pizza home service
-Pikante salami, uien.
-€ 12,00
-Pizza bolognese
-Gekruid gehakt.
-€ 12,00
-Pizza met kebab
-€ 12,00
-Pizza met kip
-€ 12,00
-Pizza Hawaï
-Kip, ananas.
-€ 13,00
-Pizza pollo
-
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
-pizza;
+pizza;Pizza cipolla;Uien;€ 11,00
+pizza;Pizza peperoni;Paprika;€ 11,00
+pizza;Pizza ananas;Ananas;€ 11,00
+pizza;Pizza funghi;Champignons;€ 11,00
+pizza;Pizza prosciutto;Hesp;€ 11,00
+pizza;Pizza sucuklu;Turkse worst;€ 11,00
+pizza;Pizza capriciosa;Champignons, hesp;€ 12,00
+pizza;Pizza americana;Pikante salami, paprika;€ 12,00
+pizza;Pizza vegetariano;Paprika, champignons, uien, olijven, maïs;€ 12,00
+pizza;Pizza tonno;Tonijn, olijven, uien;€ 13,00
+pizza;Pizza ansjovis;Ansjovis, olijven, uien;€ 13,00
+pizza;Pizza tropicale;Champignons, ananas, ham;€ 12,00
+pizza;Pizza home service;Pikante salami, uien;€ 12,00
+pizza;Pizza bolognese;Gekruid gehakt;€ 12,00
+pizza;Pizza met kebab;;€ 12,00
+pizza;Pizza met kip;Pizza met kip;€ 12,00
+pizza;Pizza Hawaï;Kip, ananas;€ 13,00
+pizza;Pizza pollo;Kip, paprika, uien;€ 13,50
+pizza;Pizza quattro stagioni;Hesp, paprika, champignons;€ 14,00
+pizza;Pizza calzone;Ham, paprika, champignons en bolognaisesaus (dubbel gevouwen pizza);€ 14,00
+pizza;Pizza Sofram kip;Kip, paprika, uien, champignons en olijven;€ 14,00
+pizza;Pizza Sofram kebab;Kebab, paprika, uien, champignons en olijven;€ 14,00
+pizza;Pizza Sofram mix;Kip, kebab, paprika, uien, champignons en olijven;€ 15,00
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pizza cipolla
-Uien.
-€ 11,00
-Pizza peperoni
-Paprika.
-€ 11,00
-Pizza ananas
-Ananas.
-€ 11,00
-Pizza funghi
-Champignons.
-€ 11,00
-Pizza prosciutto
-Hesp.
-€ 11,00
-Pizza sucuklu
-Turkse worst.
-€ 11,00
-Pizza capriciosa
-Champignons, hesp.
-€ 12,00
-Pizza americana
-Pikante salami, paprika.
-€ 12,00
-Pizza vegetariano
-Paprika, champignons, uien, olijven, maïs.
-€ 12,00
-Pizza tonno
-Tonijn, olijven, uien.
-€ 13,00
-Pizza ansjovis
-Ansjovis, olijven, uien.
-€ 13,00
-Pizza tropicale
-Champignons, ananas, ham.
-€ 12,00
-Pizza home service
-Pikante salami, uien.
-€ 12,00
-Pizza bolognese
-Gekruid gehakt.
-€ 12,00
-Pizza met kebab
-€ 12,00
-Pizza met kip
-€ 12,00
-Pizza Hawaï
-Kip, ananas.
-€ 13,00
-Pizza pollo
-Kip, paprika, uien.
-€ 13,50
-Pizza quattro stagioni
-Hesp, paprika, champignons.
-€ 14,00
-Pizza calzone
-Ham, paprika, champignons en bolognaisesaus (dubbel gevouwen pizza).
-€ 14,00
-Pizza Sofram kip
-Kip, paprika, uien, champignons en olijven.
-€ 14,00
-Pizza Sofram kebab
-Kebab, paprika, uien, champignons en olijven.
-€ 14,00
-Pizza Sofram mix
-Kip, kebab, paprika, uien, champignons en olijven.
-€ 15,00
